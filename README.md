@@ -8,6 +8,7 @@
 3. Add `CUSTOM_FILE_MONITOR` attribute in `settings.py`.
    *** CUSTOM_FILE_MONITOR=[os.path.join(BASE_DIR, 'PROJECT_NAME', 'config.json')] ***
    Exp. to monitor config.json file changes restart server.
+4. Run server as `python manage.py runapp` 
 
 # Scenario
 
